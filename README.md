@@ -13,6 +13,7 @@
 
 
 ### Train
+预训练权重链接如下：https://github.com/chenyaofo/pytorch-cifar-models<br>
 若训练本文方法MDHSD，则运行下面这条指令：
 `sh ./runs/run_kd_ssl.sh`<br>
 若训练对比算法，则运行下面这条指令：
